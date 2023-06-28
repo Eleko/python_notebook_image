@@ -1,0 +1,15 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+plotly
+dash
+seaborn
+bokeh
+nltk
+scikit-learn
+keras
+scipy
+torch
+tensorflow
+spacy

@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  analytics_env_c1:
+    image: python_notebook_image
+    container_name: python_notebook_container
+    volumes:
+      - ./data:/data
+    working_dir: /data
+    ports:
+      - 8888:8888
